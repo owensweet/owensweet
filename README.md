@@ -3,11 +3,8 @@
 Hi, I am a junior level developer, learning new things and making applications.
 
 ## Here are some of my best projects
-[Meetup][https://meetup-ap4g.onrender.com/]
-The current site takes up to 50 seconds to initially load due to [Render's][https://render.com] free version limitations
-//img for meetup
-//img for goldengaming
-//img for 
+[Meetup](https://meetup-ap4g.onrender.com/)
+The current site takes up to 50 seconds to initially load due to [Render's([https://render.com) free version limitations
 
 ## Tools / Languages / Frameworks
 
