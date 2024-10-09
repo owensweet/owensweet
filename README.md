@@ -16,9 +16,9 @@ Java, C, SQL (mySQL), JavaScript, HTML/CSS, Python
 
 Node.js, JQuery, JUnit, Bootstrap, React.js
 
-***Tools*** Git, 
+***Tools*** 
 
-MongoDB, Figma, Firebase, VS Code, Studio3T, Eclipse, Cloudinary, Linux
+Git, MongoDB, Figma, Firebase, VS Code, Studio3T, Eclipse, Cloudinary, Linux
 
 ***Libraries*** 
 
