@@ -10,16 +10,16 @@ The current site takes up to 50 seconds to initially load due to [Render's](http
 
 ***Languages*** 
 
-Java, C, SQL (mySQL), JavaScript, HTML/CSS, Python
+Java, C, SQL (mySQL), JavaScript, HTML/CSS, Python, R, Kotlin, Ocaml
 
 ***Frameworks*** 
 
-Node.js, JQuery, JUnit, Bootstrap, React.js
+Node.js, JQuery, JUnit, Bootstrap, React.js, 
 
 ***Tools*** 
 
-Git, MongoDB, Figma, Firebase, VS Code, Studio3T, Eclipse, Cloudinary, Linux
+Git, MongoDB, Figma, Firebase, VS Code, Studio3T, Eclipse, Cloudinary, Linux, Android Studio, IntelliJ IDEs, Blender, Godot
 
 ***Libraries*** 
 
-Express, Pandas, Matplotlib, Ytdl, NumPy, YahooFinance
+Express.js, Pandas, Matplotlib, Ytdl, NumPy, YahooFinance
