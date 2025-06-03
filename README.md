@@ -1,6 +1,6 @@
 # Owen Sweet
 
-Hi, I am a junior level developer, learning new things and making applications.
+Building software since 2023. I've worked with teams at startups and BCIT to ship production apps and backend systems in the lower mainland.
 
 ## Here are some of my best projects
 [Meetup](https://meetup-ap4g.onrender.com/) : 
