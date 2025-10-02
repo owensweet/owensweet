@@ -1,6 +1,6 @@
 # Owen Sweet
 
-Building software since 2023. I've worked with teams at startups and BCIT to ship production apps and backend systems in the lower mainland.
+Building software and managing systems for 3 years. I've worked with teams at startups and BCIT to ship production apps and backend systems in the lower mainland.
 
 ## What I've contributed to
 
