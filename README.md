@@ -51,16 +51,14 @@ Real-time crime data visualization of crime hotspots, with location-based alerts
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=owensweet&show_icons=true&theme=dark)
 
 ---
 
 ## 📫 Let's Connect
 
-- 💼 Open to **full-time opportunities** in backend/full-stack development
+- 💼 Open to **full-time opportunities** as a software engineer, backend developer, or a devOps engineer
 - 🌐 Portfolio: [owensweet.dev](https://owensweet.dev)
 - 📧 Reach out for collaborations or just to talk tech
 
 ---
-
-*Building things that matter, one commit at a time.*
