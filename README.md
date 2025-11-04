@@ -11,7 +11,7 @@ Building software and managing systems for 3 years. I've worked with teams at st
 ```text
 Backend:     Rust • Java • C# • Go • Python • Elixir
 Frontend:    React • Next.js • TypeScript • Tailwind
-Data:        PostgreSQL • MySQL • MongoDB
+Data:        PostgreSQL • MySQL • MongoDB • SQLite
 Cloud/Ops:   AWS • Docker • K8s • Terraform • GitHub Actions
 ```
 
