@@ -1,6 +1,6 @@
 # Hey, I'm Owen 👋
 
-**Full-stack developer** shipping production software for 3 years. I build scalable systems, automate infrastructure, and turn ideas into products people actually use.
+**Software Engineer / DevOps** Building software and managing systems for 3 years. I've worked with teams at startups and BCIT to ship production apps and backend systems in the lower mainland.
 
 🎓 **BCIT** • 🌎 **Vancouver, BC** • 🌐 **[owensweet.dev](https://owensweet.dev)**
 
