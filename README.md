@@ -36,7 +36,7 @@ Cloud/Ops:   AWS • Docker • K8s • Terraform • GitHub Actions
 ### [Atmoxhere](https://atmoxhere.net) – *E-commerce Platform*
 Full-stack sci-fi clothing brand built from scratch. Integrated **Stripe payments**, inventory management, cloud database, and automated email workflows. Still a work in progress.
 
-### Personal Infrastructure
+### [Personal Site](https://owensweet.dev) - *DevOps project*
 Self-hosted site with **Go** backend, deployed on **AWS EC2** with **Docker** containers. Full **CI/CD** pipeline via GitHub Actions and infrastructure managed through **Terraform**.
 
 ### Meetup – *Navigation App*
@@ -57,8 +57,6 @@ Real-time crime data visualization of crime hotspots, with location-based alerts
 ![Years Active](https://img.shields.io/badge/Coding_Since-2022-blue?style=for-the-badge)
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=owensweet&theme=react-dark&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=owensweet&theme=dark)
 
 ---
 
