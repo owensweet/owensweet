@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 What I'm Working With
+## Some of the tools I use
 
 ```text
 Backend:     Java • C# • Go • Python • Rust • Elixir
@@ -17,7 +17,7 @@ Cloud/Ops:   AWS • Docker • K8s • Terraform • GitHub Actions
 
 ---
 
-## 💼 Production Experience
+## Production systems
 
 **🧬 Kinexus Bioinformatics** • *Backend Developer*
 - Deployed web platform serving **hundreds of research labs worldwide**
@@ -30,10 +30,10 @@ Cloud/Ops:   AWS • Docker • K8s • Terraform • GitHub Actions
 
 ---
 
-## 🛠️ Featured Projects
+## Personal Projects
 
 ### [Atmoxhere](https://atmoxhere.net) – *E-commerce Platform*
-Full-stack sci-fi clothing brand built from scratch. Integrated **Stripe payments**, inventory management, cloud database, and automated email workflows.
+Full-stack sci-fi clothing brand built from scratch. Integrated **Stripe payments**, inventory management, cloud database, and automated email workflows. Still a work in progress.
 
 ### Personal Infrastructure
 Self-hosted site with **Go** backend, deployed on **AWS EC2** with **Docker** containers. Full **CI/CD** pipeline via GitHub Actions and infrastructure managed through **Terraform**.
@@ -42,10 +42,10 @@ Self-hosted site with **Go** backend, deployed on **AWS EC2** with **Docker** co
 Calculates optimal meeting points between users, with multi-modal transit routing and nearby point-of-interest discovery.
 
 ### Golden Gaming – *Senior Tech Platform*
-BCIT capstone project: gaming platform designed to combat cognitive decline in senior communities through interactive experiences.
+Gaming platform designed to combat cognitive decline in senior communities and increase social activity through gaming.
 
 ### Vancouver Crime Watch
-Real-time crime data visualization with location-based alerts and news integration.
+Real-time crime data visualization of crime hotspots, with location-based alerts and news integration.
 
 ---
 
