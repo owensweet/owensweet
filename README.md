@@ -10,7 +10,7 @@ BCIT Accreditation System - Created the database and faculty interface for the a
 
 Personal Site - Simple dev site, with the static files served from server programmed in Go. Hosted on an AWS EC2 instance and runs docker containers. CI/CD pipelines using github actions and IaC with Terraform.
 
-Atmoxhere - A sci-fi artistic clothing website, fully built from the ground up. Handled payments, order and products system with cloud database, and automated emails.
+[Atmoxhere](atmoxhere.net) - A sci-fi artistic clothing website, fully built from the ground up. Handled payments, order and products system with cloud database, and automated emails.
 
 Meetup - A navigation app that connects 2 users to a meeting point between them, calculating different modes of transportation and nearby attractions.
 
