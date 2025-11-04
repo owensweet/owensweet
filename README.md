@@ -25,9 +25,10 @@ Cloud/Ops:   AWS • Docker • K8s • Terraform • GitHub Actions
 - Built features using **ASP.NET** with **Azure** infrastructure
 - Enabled researchers to query complex protein kinase relationships at scale
 
-**BCIT Engineering** • *Full-Stack Developer*
+**BCIT Engineering Accrediation System** • *Full-Stack Developer*
 - Architected database and faculty interface for department-wide accreditation system
-- Streamlined compliance workflows for engineering programs
+- Handled security of the web interface and the database hosted in-house
+- Hosted the service to be used by all faculty of the engineering departments at BCIT.
 
 ---
 
