@@ -51,9 +51,9 @@ Real-time crime data visualization of crime hotspots, with location-based alerts
 
 ## GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=owensweet&theme=dark)
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=owensweet&theme=github-dark&area=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=owensweet&hide=html,css&langs_count=8)  // Show top 8 languages
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=owensweet&theme=dark)
 
 ---
 
