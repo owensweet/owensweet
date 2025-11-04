@@ -1,6 +1,5 @@
-# {name: "Owen Sweet"}
+# Owen Sweet := **Software Engineer / DevOps**
 
-**Software Engineer / DevOps**
 Building software and managing systems for 3 years. I've worked with teams at startups and BCIT to ship production apps and backend systems in the lower mainland.
 
 🎓 **BCIT** • 🌎 **Vancouver, BC** • 🌐 **[owensweet.dev](https://owensweet.dev)**
