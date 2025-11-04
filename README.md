@@ -19,12 +19,12 @@ Cloud/Ops:   AWS • Docker • K8s • Terraform • GitHub Actions
 
 ## Production systems
 
-**🧬 Kinexus Bioinformatics** • *Backend Developer*
+**Kinexus Bioinformatics** • *Backend Developer*
 - Deployed web platform serving **hundreds of research labs worldwide**
 - Built features using **ASP.NET** with **Azure** infrastructure
 - Enabled researchers to query complex protein kinase relationships at scale
 
-**🎓 BCIT Engineering** • *Full-Stack Developer*
+**BCIT Engineering** • *Full-Stack Developer*
 - Architected database and faculty interface for department-wide accreditation system
 - Streamlined compliance workflows for engineering programs
 
@@ -49,13 +49,13 @@ Real-time crime data visualization of crime hotspots, with location-based alerts
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=owensweet&show_icons=true&theme=dark)
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 - 💼 Open to **full-time opportunities** as a software engineer, backend developer, or a devOps engineer
 - 🌐 Portfolio: [owensweet.dev](https://owensweet.dev)
