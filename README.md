@@ -1,4 +1,4 @@
-# `function OwenSweet()`
+# `{Owen Sweet}`
 
 Building software and managing systems for 3 years. I've worked with teams at startups and BCIT to ship production apps and backend systems in the lower mainland.
 
