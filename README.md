@@ -1,45 +1,66 @@
-# Owen Sweet
+# Hey, I'm Owen 👋
 
-Building software and managing systems for 3 years. I've worked with teams at startups and BCIT to ship production apps and backend systems in the lower mainland.
+**Full-stack developer** shipping production software for 3 years. I build scalable systems, automate infrastructure, and turn ideas into products people actually use.
 
-British Columbia Institute of Technology
+🎓 **BCIT** • 🌎 **Vancouver, BC** • 🌐 **[owensweet.dev](https://owensweet.dev)**
 
-20 yrs old
+---
 
-dev site: [owensweet.dev](https://owensweet.dev)
+## 🚀 What I'm Working With
 
-## What I've contributed to
+```text
+Backend:     Java • C# • Go • Python • Rust • Elixir
+Frontend:    React • Next.js • TypeScript • Tailwind
+Data:        PostgreSQL • MySQL • MongoDB
+Cloud/Ops:   AWS • Docker • K8s • Terraform • GitHub Actions
+```
 
-Kinexus Bioinformatics - Contributed to the deployment and production of a production web application enabling researchers to query protein kinase relationships. The platform is actively used by hundreds of biology and immunology laboratories worldwide. Contributed to backend implementation with ASP.NET, with hosting and deployment managed on Microsoft Azure.
+---
 
-BCIT Accreditation System - Created the database and faculty interface for the accreditation system for BCIT's Engineering department.
+## 💼 Production Experience
 
-Personal Site - Simple dev site, with the static files served from server programmed in Go. Hosted on an AWS EC2 instance and runs docker containers. CI/CD pipelines using github actions and IaC with Terraform.
+**🧬 Kinexus Bioinformatics** • *Backend Developer*
+- Deployed web platform serving **hundreds of research labs worldwide**
+- Built features using **ASP.NET** with **Azure** infrastructure
+- Enabled researchers to query complex protein kinase relationships at scale
 
-[Atmoxhere](https://atmoxhere.net) - A sci-fi artistic clothing website, fully built from the ground up. Handled payments, order and products system with cloud database, and automated emails.
+**🎓 BCIT Engineering** • *Full-Stack Developer*
+- Architected database and faculty interface for department-wide accreditation system
+- Streamlined compliance workflows for engineering programs
 
-Meetup - A navigation app that connects 2 users to a meeting point between them, calculating different modes of transportation and nearby attractions.
+---
 
-Golden Gaming - As part of a BCIT course project, Golden Gaming is a gaming and communication platforms designed for senior homes in the future to combat cognitive decline.
+## 🛠️ Featured Projects
 
-Vancouver Crime Watch - A navigation app that shows nearby crime hotspots and has access to nearby news.
+### [Atmoxhere](https://atmoxhere.net) – *E-commerce Platform*
+Full-stack sci-fi clothing brand built from scratch. Integrated **Stripe payments**, inventory management, cloud database, and automated email workflows.
 
-## Tools / Languages / Frameworks
+### Personal Infrastructure
+Self-hosted site with **Go** backend, deployed on **AWS EC2** with **Docker** containers. Full **CI/CD** pipeline via GitHub Actions and infrastructure managed through **Terraform**.
 
-***Languages*** 
+### Meetup – *Navigation App*
+Calculates optimal meeting points between users, with multi-modal transit routing and nearby point-of-interest discovery.
 
-Java, C, SQL (mySQL & PostgreSQL), JavaScript, HTML/CSS, Python, R, Kotlin, C#, Go, Elixir, Rust
+### Golden Gaming – *Senior Tech Platform*
+BCIT capstone project: gaming platform designed to combat cognitive decline in senior communities through interactive experiences.
 
-***Frameworks*** 
+### Vancouver Crime Watch
+Real-time crime data visualization with location-based alerts and news integration.
 
- React.js, Springboot, Next.js, Django, Node.js, JQuery, JUnit, Ktor, Pytest, FastAPI
+---
 
+## 📊 GitHub Stats
 
-***Tools*** 
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
 
-Git, Linux, AWS, Docker, K8s, Terraform, MongoDB, Selenium, Android Studio, Github Actions, Figma, Blender
+---
 
-***Libraries*** 
+## 📫 Let's Connect
 
-Express, Pandas, Tailwind CSS, Springboot, Google Maps API, Three.js, TensorFlow
+- 💼 Open to **full-time opportunities** in backend/full-stack development
+- 🌐 Portfolio: [owensweet.dev](https://owensweet.dev)
+- 📧 Reach out for collaborations or just to talk tech
 
+---
+
+*Building things that matter, one commit at a time.*
