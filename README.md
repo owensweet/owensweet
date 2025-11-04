@@ -51,12 +51,11 @@ Real-time crime data visualization of crime hotspots, with location-based alerts
 
 ## GitHub Stats
 
-![Total Commits](https://img.shields.io/badge/Total_Commits-1000+-brightgreen?style=for-the-badge)
+![Total Commits](https://img.shields.io/badge/Total_Commits-450+-brightgreen?style=for-the-badge)
+
 ![Years Active](https://img.shields.io/badge/Coding_Since-2022-blue?style=for-the-badge)
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=owensweet&theme=react-dark&hide_border=true)
-
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=owensweet&theme=github-dark&area=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=owensweet&theme=dark)
 
