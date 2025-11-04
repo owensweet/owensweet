@@ -2,6 +2,10 @@
 
 Building software and managing systems for 3 years. I've worked with teams at startups and BCIT to ship production apps and backend systems in the lower mainland.
 
+British Columbia Institute of Technology
+
+20 yrs old
+
 ## What I've contributed to
 
 Kinexus Bioinformatics - Contributed to the deployment and production of a production web application enabling researchers to query protein kinase relationships. The platform is actively used by hundreds of biology and immunology laboratories worldwide. Contributed to backend implementation with ASP.NET, with hosting and deployment managed on Microsoft Azure.
